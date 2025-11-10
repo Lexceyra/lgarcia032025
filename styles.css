@@ -1,0 +1,105 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: lightblue;
+}
+.container{
+    max-width: 75rem;
+    min-height: 10rem;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 1rem;
+}
+#pageheader{
+    background-color:khaki;
+    min-height: auto;
+    padding: .25rem;
+}
+#logo{
+    background-image: url(Images/logossmall.png);
+    width: 6.25rem;
+    height: 6.25rem;
+    border: 1px solid none;
+}
+#pageheader .container{
+
+    min-height: auto;
+}
+#pageheader nav{
+    text-align: center;
+}
+#media{
+    background-color: blue;
+    min-height: 10rem;
+    padding: 1rem;
+    background-image: url(Images/heroimagegum.png);
+    background-size: cover;
+    aspect-ratio: 16 / 9;
+}
+#career{
+    background-color: aqua;
+    min-height: 10rem;
+    padding: 1rem;
+}
+#pagecontent{
+    background-color: lightgreen;
+    min-height: 10rem;
+    padding: 1rem;
+}
+blockquote{
+
+    padding: .5rem;
+    width: 50%;
+    margin:0 auto;
+    font-size: 1.25rem;
+}
+blockquote + span{
+    
+    padding: 0.75rem;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: right;
+}
+#semester1{
+    background-color:blueviolet;
+    min-height: 10rem;
+    padding: 1rem;
+}
+#semester2{
+    background-color:brown;
+    min-height: 10rem;
+    padding: 1rem;
+}
+#pagecontent{
+    background-color: mediumvioletred;
+    min-height: 10rem;
+    padding: 1rem;
+}
+#pagefooter{
+    background-color: palegoldenrod;
+    min-height: auto;
+    padding: 1rem;
+}
+#pagefooter .container{
+    background-color: whitesmoke;
+    min-height: auto;
+    text-align: center;
+}
+#subfooter{
+    background-color: chocolate;
+    min-height: 10rem;
+    padding: 1rem;
+    text-align: center;
+
+}
+audio{
+    border: 5px solid steelblue;
+    background-color: steelblue;
+    border-radius: 5rem;
+    display: block;
+    margin: auto;
+    align-content: center;
+}
+
