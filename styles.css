@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-color: lightblue;
+    background-color: blue;
 }
 .container{
     max-width: 75rem;
