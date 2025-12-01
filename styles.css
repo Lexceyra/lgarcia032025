@@ -63,7 +63,7 @@ blockquote + span{
     text-align: right;
 }
 #semester1{
-    background-color:blueviolet;
+    background-color:rgb(165, 92, 233);
     min-height: 10rem;
     padding: 1rem;
 }
@@ -73,7 +73,7 @@ blockquote + span{
     padding: 1rem;
 }
 #pagecontent{
-    background-color: mediumvioletred;
+    background-color: rgb(222, 32, 153);
     min-height: 10rem;
     padding: 1rem;
 }
@@ -87,8 +87,17 @@ blockquote + span{
     min-height: auto;
     text-align: center;
 }
+#aifooter{
+    background-color:rgb(185, 227, 152);
+    padding: 1rem;
+    min-height: auto;
+}
+#aifooter .container{
+    min-height: auto;
+    text-align: center;
+}
 #subfooter{
-    background-color: chocolate;
+    background-color: pink;
     min-height: 10rem;
     padding: 1rem;
     text-align: center;
