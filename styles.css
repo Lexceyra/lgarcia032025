@@ -38,7 +38,7 @@ body{
     aspect-ratio: 16 / 9;
 }
 #career{
-    background-color: aqua;
+    background-color: rgb(165, 92, 233);
     min-height: 10rem;
     padding: 1rem;
 }
@@ -63,7 +63,7 @@ blockquote + span{
     text-align: right;
 }
 #semester1{
-    background-color:rgb(165, 92, 233);
+    background-color:aqua;
     min-height: 10rem;
     padding: 1rem;
 }
