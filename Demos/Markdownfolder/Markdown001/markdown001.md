@@ -7,17 +7,19 @@
 ###### Heading 6
 
 <!-- Italics -->
-This test is *italics*
+This is *italics*
 
 <!-- Strong -->
-This is test is **bold**
+This is **bold/strong**
+
+This is __bold/strong__
 
 <!-- Horizontal line -->
 ---
 ___
 
 <!-- Blockquote -->
-This is a blockquote
+> This is a blockquote
 
 <!-- links -->
 [chagoyan.com](https://chagoyan.com "Go to chagoyan.com")
