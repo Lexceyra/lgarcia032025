@@ -111,4 +111,18 @@ audio{
     margin: auto;
     align-content: center;
 }
+@media screen and (min-width:650px) {
+#pagecontent{
+    background-color: red;
+    }
+}
+@media screen and (min-width:1000){
+    #pagecontent{
+        background-color: purple;
+    }
 
+    /* #media{
+        max-height: 500px;
+        background-size: cover;
+    } */
+}
