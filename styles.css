@@ -10,6 +10,7 @@ body{
     margin: .7rem;
     background-color: aliceblue;
     padding: 1rem;
+    margin:auto;
 }
 #pageheader{
     background-color:khaki;
@@ -25,6 +26,7 @@ body{
 #pageheader .container{
 
     min-height: auto;
+    
     
 }
 #pageheader nav{
